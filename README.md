@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=Software+Engineer+%26+Tech+Enthusiast;Full+Stack+Developer;Cloud+Solutions+Architect;Open-Source+Contributor)
 
   [![GitHub followers](https://img.shields.io/github/followers/dybydxpro?label=Follow&style=social)](https://github.com/dybydxpro)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dybydxpro?style=social)](https://twitter.com/dybydxpro)
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/dybydxpro)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-dayananda-8b156b163/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tharindu@dybydxpro.dev)
 
@@ -23,7 +23,7 @@ const developer = {
     currentFocus: [
         "Open-Source Contributions",
         "AI-Powered Web Applications",
-        "Serverless Architectures"
+        "Microservices Architectures"
     ],
     communities: {
         member: ["OpenSource Alliance", "AI Sri Lanka", "DevOps Meetup Colombo"]
@@ -38,15 +38,15 @@ const developer = {
 
 ### Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Web Technologies
+### Web & Mobile Technologies
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -57,7 +57,9 @@ const developer = {
 ### Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS2022](https://img.shields.io/badge/VS2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </div>
@@ -79,7 +81,7 @@ const developer = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dybydxpro.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-dayananda-8b156b163/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dybydxpro)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dybydxpro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindu@dybydxpro.dev)
 
 </div>
