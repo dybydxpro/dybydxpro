@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:3ABFEF&height=200&section=header&text=Tharindu%20Theekshana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Solutions&descAlignY=56&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:3ABFEF&height=200&section=header&text=Tharindu%20Theekshana&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20-%20AI%20and%20Cloud%20Solutions&descAlignY=56&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ABFEF&vCenter=true&width=600&lines=Software+Engineer+%26+Tech+Enthusiast;Building+GenAI+apps+with+Azure+OpenAI;RAG+Pipelines+%2B+Vector+Databases;Full+Stack+Developer;Cloud+Solutions+Architect;Open-Source+Contributor)](https://tharindu-dev-gamma.vercel.app/)
 
@@ -56,20 +56,6 @@ const developer = {
 ![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### 🔍 How I Build RAG Systems
-
-```mermaid
-flowchart LR
-    A[📄 Documents] --> B[✂️ Chunking]
-    B --> C[🔢 Embeddings - Azure OpenAI]
-    C --> D[(🧠 Vector DB)]
-    Q[💬 User Query] --> E[🔢 Query Embedding]
-    E --> D
-    D -->|Top-k context| F[🤖 Azure OpenAI GPT]
-    Q --> F
-    F --> G[✅ Grounded Answer]
-```
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -105,7 +91,7 @@ flowchart LR
 
 ### 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dybydxpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
+![Trophies](https://github-trophies.vercel.app/?username=dybydxpro&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)
 
 ---
 
