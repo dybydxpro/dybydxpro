@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:3ABFEF&height=200&section=header&text=Tharindu%20Theekshana&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20-%20AI%20and%20Cloud%20Solutions&descAlignY=56&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ABFEF&vCenter=true&width=600&lines=Software+Engineer+%26+Tech+Enthusiast;Building+GenAI+apps+with+Azure+OpenAI;RAG+Pipelines+%2B+Vector+Databases;Full+Stack+Developer;Cloud+Solutions+Architect;Open-Source+Contributor)](https://tharindu-dev-gamma.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3ABFEF&vCenter=true&width=600&lines=Software+Engineer+%26+Tech+Enthusiast;Building+GenAI+apps+with+Azure+OpenAI;RAG+Pipelines+%2B+Vector+Databases;Full+Stack+Developer;Cloud+Solutions+Architect;Open-Source+Contributor)](https://www.tharindu-dev.com.lk/)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-3ABFEF?style=for-the-badge)](https://tharindu-dev-gamma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-3ABFEF?style=for-the-badge)](https://www.tharindu-dev.com.lk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindudayananda/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindutd1998@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61565017592812)
@@ -19,7 +19,7 @@ const developer = {
   name: "Tharindu Theekshana",
   location: "Sri Lanka 🇱🇰",
   role: "Software Engineer",
-  portfolio: "https://tharindu-dev-gamma.vercel.app/",
+  portfolio: "https://www.tharindu-dev.com.lk/",
   specializations: [
     "Generative AI & LLM Applications",
     "Full Stack Development",
@@ -44,7 +44,7 @@ const developer = {
 - 🧠 Working with **Vector DBs** & semantic search
 - ☁️ Shipping on **Azure**, **AWS** & **Kubernetes**
 - 💬 Ask me about **.NET, Go, Python & AI**
-- 🌐 Portfolio: **[tharindu-dev-gamma.vercel.app](https://tharindu-dev-gamma.vercel.app/)**
+- 🌐 Portfolio: **[tharindu-dev-gamma.vercel.app](https://www.tharindu-dev.com.lk/)**
 
 ---
 
@@ -74,7 +74,7 @@ const developer = {
 
 ## 🌐 Portfolio
 
-[![Explore my work](https://img.shields.io/badge/Explore%20my%20work-tharindu--dev--gamma.vercel.app-0F2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3ABFEF)](https://tharindu-dev-gamma.vercel.app/)
+[![Explore my work](https://img.shields.io/badge/Explore%20my%20work-tharindu--dev--gamma.vercel.app-0F2027?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3ABFEF)](https://www.tharindu-dev.com.lk/)
 
 > Projects, case studies and everything I've been building — all in one place.
 
@@ -97,7 +97,7 @@ const developer = {
 
 ## 🤝 Connect & Collaborate
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-3ABFEF?style=for-the-badge&logo=vercel&logoColor=white)](https://tharindu-dev-gamma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3ABFEF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.tharindu-dev.com.lk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindudayananda/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61565017592812)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindutd1998@gmail.com)
